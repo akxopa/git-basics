@@ -1,0 +1,2 @@
+Hello!
+Here some text for test clone and fork in GitHub
